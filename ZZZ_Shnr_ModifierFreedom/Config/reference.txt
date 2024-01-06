@@ -1,0 +1,48 @@
+Item/Installable Tags:
+weapon
+tool
+ranged
+gun
+launcher
+perkArchery
+bow
+crossbow
+shotgun
+revolver
+shortRange
+barrelAttachments
+sideAttachments
+smallTopAttachments
+mediumTopAttachments (may end up redundant)
+largeTopAttachments
+bottomAttachments
+stock
+magazine
+firingMode
+turretRanged
+turretMelee
+melee
+clothing
+armor
+armorChest 
+armorLeg 
+armorHand 
+armorFeet
+knife
+machete
+axe
+shovel
+club
+hammer
+sledge
+miningTool  (pickaxe)
+longShaft
+motorTool
+vehicle
+--------------------------------------------------------
+
+Blocking Tags:
+dBarrel
+noMods
+noSilencer
+noScopes
