@@ -6,6 +6,6 @@
 ``██░░░░░░██░░██░░██░░░░░░██░░██░░██░░██░░██░░██░░██``  
 ``██████████████████████████████████████████████████``  
 
-# ModifierFreedom
+# Modifier Freedom
 A modlet for 7 Days to Die that modifies the in-game item/vehicle mod system to allow for more freedom.  
 Scoped revolvers for all!
