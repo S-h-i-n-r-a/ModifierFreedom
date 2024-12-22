@@ -89,11 +89,6 @@
 	<set xpath="/item_modifiers/item_modifier[@name='modGunRetractingStock']/@modifier_tags">modGunRetractingStock</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modGunRetractingStock']/@blocked_tags">noMods</set>
 
-	<!-- modGunFoldingStock -->
-	<set xpath="/item_modifiers/item_modifier[@name='modGunFoldingStock']/@installable_tags">stock</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modGunFoldingStock']/@modifier_tags">modGunFoldingStock</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modGunFoldingStock']/@blocked_tags">noMods</set>
-
 	<!-- modShotgunSawedOffBarrel -->
 	<set xpath="/item_modifiers/item_modifier[@name='modShotgunSawedOffBarrel']/@installable_tags">shotgun</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modShotgunSawedOffBarrel']/@modifier_tags">modShotgunSawedOffBarrel</set>
@@ -417,36 +412,29 @@
 	<!-- modRoboticDroneArmorPlatingMod -->
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneArmorPlatingMod']/@installable_tags">drone</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneArmorPlatingMod']/@modifier_tags">modRoboticDroneArmorPlatingMod</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneArmorPlatingMod']/@blocked_tags">noMods</set>
 
 	<!-- modRoboticDroneCargoMod -->
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneCargoMod']/@installable_tags">drone</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneCargoMod']/@modifier_tags">modRoboticDroneCargoMod</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneCargoMod']/@blocked_tags">noMods</set>
 
 	<!-- modRoboticDroneMoraleBoosterMod -->
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneMoraleBoosterMod']/@installable_tags">drone</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneMoraleBoosterMod']/@modifier_tags">modRoboticDroneMoraleBoosterMod</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneMoraleBoosterMod']/@blocked_tags">noMods</set>
 
 	<!-- modRoboticDroneHeadlampMod -->
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneHeadlampMod']/@installable_tags">drone</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneHeadlampMod']/@modifier_tags">modRoboticDroneHeadlampMod</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneHeadlampMod']/@blocked_tags">noMods</set>
 
 	<!-- modRoboticDroneMedicMod -->
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneMedicMod']/@installable_tags">drone</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneMedicMod']/@modifier_tags">modRoboticDroneMedicMod</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneMedicMod']/@blocked_tags">noMods</set>
 
 	<!-- modRoboticDroneWeaponMod -->
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneWeaponMod']/@installable_tags">drone</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneWeaponMod']/@modifier_tags">modRoboticDroneWeaponMod</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneWeaponMod']/@blocked_tags">noMods</set>
 
 	<!-- modRoboticDroneStunWeaponMod -->
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneStunWeaponMod']/@installable_tags">drone</set>
 	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneStunWeaponMod']/@modifier_tags">modRoboticDroneStunWeaponMod</set>
-	<set xpath="/item_modifiers/item_modifier[@name='modRoboticDroneStunWeaponMod']/@blocked_tags">noMods</set>
 
 </configs>
